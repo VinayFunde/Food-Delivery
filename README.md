@@ -1,4 +1,4 @@
-# FOODOMANIA-Ecommerce-Website-using-React-Redux
+# FOODOMANIA-Food-Delivery-Website-using-React-Redux
 
 In this Project, I have worked on a Food delivery application developed using React js and Redux. It is a web application that allows users to order food online. It is built using React.js and Redux which are popular JavaScript libraries used for building user interfaces and managing application state respectively. The application is designed to be responsive and user-friendly.
 
